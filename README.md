@@ -32,6 +32,33 @@ Before you begin, make sure the following are installed:
 - Live Server – For previewing HTML
 - Prettier – For formatting your code
 
+
+## Resources and platforms used
+
+Frontend (Client-Side)
+HTML5 – Structures the chat interface
+
+CSS3 – Styles the UI for better appearance
+
+JavaScript (Vanilla JS) – Handles user interactions
+
+Socket.IO (Client-side) – Manages real-time communication
+
+Backend (Server-Side)
+Node.js – Runs the server
+
+Express.js – Handles HTTP requests and serves static files
+
+Socket.IO (Server-side) – Enables real-time WebSocket communication
+
+Hosting & Deployment
+Render – Hosting the live chat app
+
+GitHub – Code repository
+
+
+
+
 ##  In-Class Activity Instructions
 
 Let’s build the same chat app together on your local machine!
